@@ -14,13 +14,17 @@ This is a simple **Node.js Express server** with security enhancements and devel
 ---
 
 ## **🛠️ Installation & Setup**
-### **1️⃣ Clone the repository**
+### **1 Clone the repository**
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
-For Dependency
+### ** 2 Install dependencies**
+```bash
 npm install
+```
 
-Run the server
+### **3 Run the server**
+```bash
 npm start
+```
