@@ -19,7 +19,7 @@ This is a simple **Node.js Express server** with security enhancements and devel
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
-### ** 2 Install dependencies**
+### **2 Install dependencies**
 ```bash
 npm install
 ```
