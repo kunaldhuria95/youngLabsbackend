@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 3000;
 
 app.set('trust proxy', 1)
 
-app.use(cors())
+app.use(cors({ origin: "https://young-labsfrontend.vercel.app", credentials: true }))
 
 app.use(
     rateLimiter({
